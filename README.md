@@ -4,5 +4,3 @@ credit to : <a href="https://www.raywenderlich.com" rel="nofollow">raywenderlich
 
 
 ![](images/image1.png)
-![](images/image2.png)
-![](images/image3.png)
